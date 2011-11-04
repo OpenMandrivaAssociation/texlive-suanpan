@@ -46,6 +46,7 @@ drawing Chinese and Japanese abaci, TUGboat (volume 30, number
 %{_texmfdistdir}/metapost/suanpan/suanpan.mp
 %doc %{_texmfdistdir}/doc/metapost/suanpan/README
 %doc %{_texmfdistdir}/doc/metapost/suanpan/article.txt
+%doc %{_tlpkgobjdir}/*.tlpobj
 
 #-----------------------------------------------------------------------
 %prep
@@ -56,3 +57,5 @@ drawing Chinese and Japanese abaci, TUGboat (volume 30, number
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar metapost doc %{buildroot}%{_texmfdistdir}
+mkdir -p %{buildroot}%{_tlpkgobjdir}
+cp -fpa tlpkg/tlpobj/*.tlpobj %{buildroot}%{_tlpkgobjdir}
