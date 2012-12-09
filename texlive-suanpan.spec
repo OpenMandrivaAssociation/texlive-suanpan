@@ -47,3 +47,17 @@ drawing Chinese and Japanese abaci, TUGboat (volume 30, number
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar metapost doc %{buildroot}%{_texmfdistdir}
+
+
+%changelog
+* Wed Jan 04 2012 Paulo Andrade <pcpa@mandriva.com.br> 20091110-2
++ Revision: 756298
+- Rebuild to reduce used resources
+
+* Sat Nov 05 2011 Paulo Andrade <pcpa@mandriva.com.br> 20091110-1
++ Revision: 719599
+- texlive-suanpan
+- texlive-suanpan
+- texlive-suanpan
+- texlive-suanpan
+
