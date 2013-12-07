@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-suanpan
 Version:	20091110
-Release:	3
+Release:	4
 Summary:	MetaPost macros for drawing Chinese and Japanese abaci
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/graphics/metapost/contrib/macros/suanpan
