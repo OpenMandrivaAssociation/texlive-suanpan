@@ -5,7 +5,7 @@
 # catalog-license lppl
 # catalog-version undef
 Name:		texlive-suanpan
-Version:	20170414
+Version:	20180303
 Release:	1
 Summary:	MetaPost macros for drawing Chinese and Japanese abaci
 Group:		Publishing
