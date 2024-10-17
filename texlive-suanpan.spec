@@ -3,7 +3,7 @@ Version:	15878
 Release:	2
 Summary:	MetaPost macros for drawing Chinese and Japanese abaci
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/graphics/metapost/contrib/macros/suanpan
+URL:		https://www.ctan.org/tex-archive/graphics/metapost/contrib/macros/suanpan
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/suanpan.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/suanpan.doc.r%{version}.tar.xz
